@@ -1,3 +1,5 @@
+
+
 ```
 python -V
 python3 -m venv venv
@@ -18,3 +20,4 @@ python -m freeze > requirements.txt
 ```
 
 ? Virtual Environment seems to be picking up dependencies globally installed on the machine
+choose Virtual Environment in VS Code status bar not default Python install

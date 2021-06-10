@@ -30,3 +30,29 @@ https://realpython.com/python-string-formatting/
 ## Collections
 
 https://www.geeksforgeeks.org/python-list-vs-array-vs-tuple/
+
+## Virtual Environment
+
+### POSIX
+
+```
+python -V
+python3 -m venv venv # or just python if 3 is default
+source ./venv/bin/activate
+python -V
+```
+
+### Windows
+
+```
+python -V
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+# OR
+.\venv\Scripts\activate.bat
+```
+
+### VS Code
+
+Check to make sure VS Code status bar is using venv version as well as terminal
+If prompted to install autopep8 or other linter go ahead and install
