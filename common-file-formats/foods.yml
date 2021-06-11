@@ -1,0 +1,20 @@
+- id: 1
+  name: apple
+  price: 1.2
+  qty: 2
+- id: 2
+  name: chicken
+  price: 4.3
+  qty: 4
+- id: 3
+  name: ice cream
+  price: 5.25
+  qty: 3
+- id: 4
+  name: soda
+  price: 0.99
+  qty: 1
+- id: 5
+  name: bacon
+  price: 4.55
+  qty: 2
